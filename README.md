@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh Sehgal</h1>
-<h3 align="center">Currently I am a 3rd year undergraduate pursuing Computer Science Engineering from NIIT University, Neemrana. I am specializing in Data Science. Data Scientist has become one of the most demanded jobs of the 21st Century and it has intrigued me on many levels. I find working with data very calming and I really love how the visualization and analysis of data unfolds a different story in front of you every time.</h3>
+<h3 align="center">Currently I am a 3rd year undergraduate pursuing Computer Science Engineering from NIIT University, Neemrana. I am specializing in Data Science. </h3>
 
 <p align="left">
 </p>
