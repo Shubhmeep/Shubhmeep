@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh Sehgal</h1>
-<h3 align="center">Currently I am a 3rd year undergraduate pursuing Computer Science Engineering from NIIT University, Neemrana. I am specializing in Data Science. </h3>
+<h3 align="center">Currently I am a final year undergraduate pursuing Computer Science Engineering from NIIT University, Neemrana. I am specializing in Data Science. </h3>
 
 <p align="left">
 </p>
