@@ -16,7 +16,7 @@ class Shubh:
             'devops': ['Docker','AWS', 'Heroku'],
             'tools': ['GitHub', 'Pandas', 'Jupyter notebook', 'Adobe XD' ],
         }
-        self.strengths = ['ommitted to lifelong learning', ' Team Building', 'Reliable and consistent']
+        self.strengths = ['Committed to lifelong learning', ' Team Building', 'Reliable and consistent']
         self.hobbies = ['Football', 'Gaming', 'Research']
     def __str__(self):
         return self.name
