@@ -14,7 +14,9 @@ class Shubh:
             'Languages':['Python', 'SQL'],
             'backend': ['Python', 'Django', 'Flask'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'ChromaDB (Vector DB)'],
-            'Machine Learning' : [ 'Numpy', 'Pandas', 'Scikit-learn', 'Exploratory Data         Analysis', 'Feature Engineering', 'Regression','Classification', 'Model Evaluation', MLflow(model tracking)', Hopsworks (Feature store/Model monitoring & registry),'Statistics (minitab)', 'Probability', 'OpenCV', 'LLMs  (GPT-4, Llama 2, LaMini-LM, Gemini)'],
+            'Machine Learning' : [ 'Numpy', 'Pandas', 'Scikit-learn', 'Exploratory Data Analysis', 'Feature Engineering', 
+'Regression','Classification', 'Model Evaluation','MLflow(model tracking)', 'Hopsworks (Feature store/Model monitoring & registry)',
+'Statistics (minitab)', 'Probability', 'OpenCV', 'LLMs  (GPT-4, Llama 2, LaMini-LM, Gemini)'],
             'devops/cloud': ['Docker','AWS (S3, EC2, Lambda, RDS, SQS, ECS)', 'Github Actions'],
             'tools': ['GitHub', 'Pandas', 'Jupyter notebook', 'Adobe XD' ],
         }
