@@ -4,7 +4,7 @@
 
 # Shubh Sehgal
 
-**ML Engineer · Speech AI Researcher · RIT MS/AI '26**
+**ML Engineer · AI Researcher · RIT MS/AI '26**
 
 [![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=388bfd&labelColor=161b22)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c&labelColor=161b22)](https://pytorch.org)
