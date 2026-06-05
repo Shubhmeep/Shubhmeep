@@ -1,79 +1,38 @@
+<h1 align="center">Hi there, I'm Shubh Sehgal 👋</h1>
+<h3 align="center">Data Scientist | ML Engineer | MS in AI @ RIT</h3>
+
 <div align="center">
-
-<h3>hey, I'm</h3>
-
-# Shubh Sehgal
-
-**ML Engineer · AI Researcher · RIT MS/AI '26**
-
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=388bfd&labelColor=161b22)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c&labelColor=161b22)](https://pytorch.org)
-[![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=161b22)](https://aws.amazon.com)
-[![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=161b22)](https://docker.com)
-[![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=3fb950&labelColor=161b22)](https://langchain.com)
-[![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&labelColor=161b22)](https://azure.microsoft.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=161b22)](https://huggingface.co)
-
-*Building end-to-end ML systems — ASR pipelines, RAG architectures, credit risk models, LLM fine-tuning.*
-
-*Currently @ RIT CLASP Lab &nbsp;·&nbsp; ACL 2026 under review &nbsp;·&nbsp; Open to relocation*
-
+  <a href="mailto:shubh.sehgal.rit@gmail.com"><img src="https://img.shields.io/badge/Email-shubh.sehgal.rit%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/shubhsehgal2506"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://leetcode.com/u/Chota_don/"><img src="https://img.shields.io/badge/LeetCode-Chota__don-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
 </div>
 
 ---
 
-## experience
+### 🚀 TL;DR
+- 🎓 Pursuing a Master of Science in Artificial Intelligence at the Rochester Institute of Technology.
+- 🔬 Specializing in predictive models, scalable ML workflows, and NLP systems.
+- 💻 Core Stack: Python, Advance SQL + Pandas, PyTorch, PySpark, MLOps and production-grade RAG & Agentic systems.
 
-```
-Research Assistant   RIT CLASP Lab · Rochester, NY     Aug 2025 – Present
-Data Scientist       actyv.ai · Bengaluru, India        Jul 2023 – Sep 2023
-Data Science Intern  actyv.ai · Bengaluru, India        Jan 2023 – Jun 2023
-```
+### 💼 Experience Highlights
 
-- 🎙️ Built a Whisper + Pyannote speech diarization pipeline — **200h audio processed**, **32% WER reduction** — ACL 2026 under review
-- 💳 Shipped XGBoost ensemble credit scoring model — **0.91 ROC-AUC**, handling **4,000+ loan applications/day**, **60% faster underwriting**
-- 📄 Multimodal document intelligence system — **0.89 weighted F1**, **1,000+ daily API requests**
+- **Research Data Scientist @ RIT CLaSP Lab:** Supported a $2M NSF-funded research program, processing 200+ hours of audio and achieving a 0.87 F1-score in text classification.
+- **Data Scientist @ CUTSO LLP:** Designed an anomaly detection framework reducing monthly loss avoidance by $23K and built interactive dashboards for 120+ clients.
+- **Associate Data Scientist @ actyv.ai:** Built and deployed an end-to-end XGBoost credit risk model on AWS, improving the ROC-AUC metric by 8%.
 
----
+### 💻 Skills
 
-## shipped
-
-| | Project | Stack | Impact |
-|---|---|---|---|
-| 🏆 | **[PhysioPrompt](#)** | BioRadio · Random Forest · Claude API | Best Demo — AWARE-AI Hackathon 2026 |
-| ⚙️ | **[AdAudit](#)** | Azure AI · LangGraph · FAISS · GPT-4o | 92% rule-matching precision · 45% ↓ manual review |
-| 🎙️ | **[Speech Pipeline](#)** | Whisper · Pyannote · DistilBERT · Docker | 32% WER ↓ · ACL 2026 (under review) |
-| 🧠 | **[LLM Fine-Tuning](#)** | LoRA/QLoRA · HuggingFace · Ollama | 60% GPU memory ↓ · offline domain Q&A |
-| 🧘 | **[YogiSync](#)** | MediaPipe · Random Forest · Gemini | 0.88 macro F1 · BrickHack 11 |
-
----
-
-## stack
-
-| Layer | Tools |
+| Domain | Technologies |
 |---|---|
-| **Languages & Data** | `Python` `SQL` `Pandas` `NumPy` |
-| **ML / DL** | `PyTorch` `Scikit-learn` `TensorFlow` `Whisper` `DistilBERT` `LoRA/QLoRA` `XGBoost` |
-| **GenAI & Retrieval** | `LangChain` `LangGraph` `FAISS` `ChromaDB` `RAG` |
-| **MLOps & Cloud** | `Docker` `Kubernetes` `MLflow` `FastAPI` `AWS` `Azure` `Airflow` `GitHub Actions` |
+| **Languages & Databases** | `Python` `C++` `SQL` `PostgreSQL` `MySQL` |
+| **Applied AI** | `Hugging Face` `Transformers` `RAG` `Prompt Engineering` `Fine-tuning` `LangChain` `LangGraph` `LlamaIndex` `FAISS` `Vector DB (Pinecone, Weaviate)` |
+| **Machine Learning & Stats** | `Scikit-learn` `PyTorch` `Regression` `Classification` `Clustering` `Feature Engineering` `Model Evaluation` |
+| **Data Engineering & MLOps** | `PySpark` `Apache Airflow` `Docker` `Flask` `FastAPI` `MLflow` `DVC` `ONNX Runtime` `Git` `Hopsworks` |
+| **Cloud & Infrastructure** | `Linux` `AWS EC2` `AWS SageMaker` `AWS S3` `AWS Lambda` `Amazon Redshift` `Azure File Storage` |
+| **Data Analysis & Viz** | `Pandas` `NumPy` `Matplotlib` `Tableau` `Power BI` `Hypothesis Testing` `A/B Testing` |
+
+### 🏆 Achievements
+- **Best Presentation Award:** AWARE-AI Spring 2026 Hackathon for a physiologically-aware multimodal AI interface.
+- **Academic Scholarship:** 80% tuition scholarship at RIT.
 
 ---
-
-## numbers that matter
-
-| Metric | Value |
-|---|---|
-| WER reduction — speech pipeline | **32%** |
-| ROC-AUC — credit risk model | **0.91** |
-| Rule-matching precision — AdAudit | **92%** |
-| GPU memory saved — LLM fine-tuning | **60%** |
-| F1 — dialogue-act classification | **0.87** |
-| Loan applications processed / day | **4,000+** |
-
----
-
-<div align="center">
-
-📬 [shubh.sehgal.rit@gmail.com](mailto:shubh.sehgal.rit@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/shubhsehgal2506](https://linkedin.com/in/shubhsehgal2506) &nbsp;·&nbsp; Rochester, NY
-
-</div>
